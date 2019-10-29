@@ -1,5 +1,5 @@
 # Markdown-batch-conversion-PDF
-将当前目录和子目录下的.md文件转换成.pdf文件
+将当前目录和子目录下的.md文件批量转换成.pdf文件
 
 **目前只支持Linux下的转换**
 
