@@ -1,6 +1,8 @@
 # Markdown-batch-conversion-PDF
 将当前目录和子目录下的.md文件批量转换成.pdf文件
 
+可以通过更改template.latex来改变输出的pdf的样式
+
 **目前只支持Linux下的转换**
 
 Windows改改源码应该可以运行，没有Mac系统，所以不知道能不能运行
