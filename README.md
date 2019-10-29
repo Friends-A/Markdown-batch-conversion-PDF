@@ -7,7 +7,7 @@
 将需要转换的markdown文件放在同一个文件夹下，将该文件夹与code.py和template.latex放在同一个父文件夹下
 命令行执行
 ```
-python code.py
+$ python code.py
 ```
 ## 存在的问题
 - latex库里没有的字符会出现warning，但是不影响文件的输出
